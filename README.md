@@ -1,19 +1,4 @@
-
-<div align="center">
-<h3><code>avi@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" />
-<br><br>
-<h3><code>avi@github ~ $ whoami</code></h3>
-<table>
-  <tr>
-    <td valign="top"><img src="./avi-ascii.svg" width="370" /></td>
-    <td valign="top"><img src="./info-card.svg" width="490" /></td>
-  </tr>
-</table>
-</div>
-
----
-# 💫 About Me:
+💫 About Me:
 I am a Cybersecurity Analyst with hands-on experience in OSINT, network reconnaissance, Linux systems, and cybersecurity fundamentals. Through practical labs, projects, and security-focused learning, I have developed skills in identifying security risks, analyzing system weaknesses, and understanding how attackers think and operate. 🔐<br><br>🎯 My primary interest is offensive security, Red Teaming, penetration testing, and threat intelligence. I am continuously strengthening my technical foundation and applying structured methodologies to practical security scenarios.<br><br>💻 Alongside cybersecurity, I also have experience as a Frontend Web Developer, working with React, JavaScript, HTML, CSS, and Tailwind CSS to build responsive, modern, and user-friendly web applications.<br><br>📚 I am focused on continuously developing my technical skills across both areas, with a long-term goal of building a career in offensive security and penetration testing. 🚀
 
 
