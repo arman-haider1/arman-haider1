@@ -1,4 +1,4 @@
-💫 About Me:
+# 💫 About Me:
 I am a Cybersecurity Analyst with hands-on experience in OSINT, network reconnaissance, Linux systems, and cybersecurity fundamentals. Through practical labs, projects, and security-focused learning, I have developed skills in identifying security risks, analyzing system weaknesses, and understanding how attackers think and operate. 🔐<br><br>🎯 My primary interest is offensive security, Red Teaming, penetration testing, and threat intelligence. I am continuously strengthening my technical foundation and applying structured methodologies to practical security scenarios.<br><br>💻 Alongside cybersecurity, I also have experience as a Frontend Web Developer, working with React, JavaScript, HTML, CSS, and Tailwind CSS to build responsive, modern, and user-friendly web applications.<br><br>📚 I am focused on continuously developing my technical skills across both areas, with a long-term goal of building a career in offensive security and penetration testing. 🚀
 
 
